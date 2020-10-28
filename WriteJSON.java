@@ -4,8 +4,6 @@ import com.google.gson.Gson;
 
 /***
  * Automatic serialization example
- * @author RicardoMoya
- *
  */
 public class WriteJson {
 
