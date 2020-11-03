@@ -17,7 +17,7 @@ public class WriteJson {
 			new FootballPlayer(11, "Roberto", Arrays.asList("Left back"), "FC Barcelona"),
 			new FootballPlayer(14, "Kroos", Arrays.asList("Defensive midfield", "Midfield"), "Real Madrid"),
 			new FootballPlayer(16, "Busquets", Arrays.asList("Defensive midfield"), "FC Barcelona"),
-			new FootballPlayer(8, "Pedri, Arrays.asList("Midfielder"), "FC Barcelona"),
+			new FootballPlayer(8, "Pedri", Arrays.asList("Midfielder"), "FC Barcelona"),
 			new FootballPlayer(18, "Griezmann", Arrays.asList("Left winger", "False forward"), "FC Barcelona"),
 			new FootballPlayer(6, "DeJong", Arrays.asList("Right winger", "Midfielder"), "FC Barcelona"),
 			new FootballPlayer(7, "Messi", Arrays.asList("Centre forward"), "FC Barcelona")
